@@ -1,7 +1,7 @@
 # React-Lab-Exercise-14-Fetch-Student-Details-Using-an-API-in-React
 
-## Name : Moulishwar G
-## Register Number : 2305001020
+## Name : Pranav K
+## Register Number : 2305001026
 
 # AIM
 To develop a React application in which a student clicks the View Details button, the application fetches student data from an API using fetch(), receives the response in JSON format, and displays the details on the screen using React Hooks.
